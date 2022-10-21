@@ -2,8 +2,9 @@ body {
     background-color: #DBD7FF;
 }
 
-#surfboards {
-    text-align: center;
+img{
+    width: 300px;
+    height: auto;
 }
 
 h1{
